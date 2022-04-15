@@ -32,6 +32,3 @@ CRUDContract
     .catch((e) => {
         console.error(e);
     })
-
-// contract deployed on rinkeby at 0xAE153d3892dC13E6DC61a7629E24Ee1080A1D663
-// contract deployed on rinkeby at 0x6a9D893c1E3d77306d1Ac94BdDc4A26f64B12561
