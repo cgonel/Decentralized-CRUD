@@ -5,7 +5,6 @@ pragma solidity ^0.8.13;
 /**
     @author Chris Gonel
     @title CRUD Post Contract Interface
-    @notice CSBC2010 - Module 6
     @dev defines the functions needed in CRUDContract
 */
 
